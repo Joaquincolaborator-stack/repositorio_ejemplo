@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+               <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - página l5</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Joaquin Carrizo</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+sólo les fatiga el calor del sol, por lo que regularmente paran a las diez del día, y cada picador, después de hecho el rodeo, que es a proporción del número de carretas, desunen sus cuatro bueyes con gran presteza y el bueyero los junta con las remudas para que coman, beban y descansen a lo menos hasta las cuatro de la tarde. En estas seis horas, poco más o menos, se hace de comer para la gente, contentándose los peones con asar mal cada uno un buen trozo de carne. Matan su res si hay necesidad y también dan sebo a las mazas de las ruedas, que todo ejecutan con mucha velocidad. Los pasajeros se ponen a la sombra de los elevados árboles unos y otros a la que hacen las carretas, que por su elevación es dilatada; pero la más segura permanente, y con ventilación, será pareando dos carretas de modo que quepa otra en el medio. Se atraviesan sobre las altas toldas dos o tres picanas y sobre ellas se extiende   —92→   la carpa o toldo para atajar los rayos del sol y se forma un techo campestre capaz de dar sombra cómodamente a ocho personas. Algunos llevan sus taburetitos de una doble tijera, con sus asientos de baqueta o lona. Este género lo tengo por mejor, porque, aunque se moje, se seca
+
+</body>
+</text>
+</TEI>
