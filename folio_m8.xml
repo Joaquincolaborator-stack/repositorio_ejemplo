@@ -35,7 +35,7 @@
 
         <text>
             <body>
-            <p><pb n="m8"/>fin la <placeName key="tucuman">jurisdicción de San Miguel del Tucumán</placeName>, <note xml:id="m8n1"></note>que es la menor en extensión de la gran provincia de este nombre, pero en mi concepto es el mejor territorio de toda ella, por la multitud de aguas útiles que tiene para los riegos, extensión de ensenadas, para pastos y sembrados, y su temperamento más templado.</p>
+            <p><pb n="m8"/>fin la <placeName key="tucuman">jurisdicción de San Miguel del Tucumán</placeName>, <note xml:id="m8n1"></note>que es la menor en extensión de la gran provincia de este nombre, pero en mi concepto es el mejor territorio de toda ella, por la multitud de aguas útiles que tiene para los riegos, extensión de ensenadas<note xml:id="m8n2"></note>, para pastos y sembrados, y su temperamento<note xml:id="m8n3"></note> más templado.</p>
             
 </body>
 </text>
